@@ -1,0 +1,4 @@
+What is git status
+what is git init
+
+o dear the file was empty
