@@ -1,4 +1,6 @@
-What is git status
-what is git init
+Talked about git status
+talked about git init
 
-o dear the file was empty
+talked about commits
+
+create a branch named our first branch
